@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* I have started to grasp the basics of HTML. I have been exposed to some of the basic tags in HTML like paragraph, header, figure including image and figure caption.
+* So far, everything seems to be clear and simple. Thanks to the instructors for their well defined examples and explanations.
+* The image tag was a bit trippy. I did use solely img tag as well as the figure tag. Both seems to serve the purpose but it's better to learn both ways.
+* So far, I made use of the figures project in the final mockup-to-article project. Others were fine. Now I have a good understanding of the tree structure in HTML as I was successful in my projects. 
