@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #D3D3D3;
+}
+
+.card-background {
+    background: #fff;
+}
+
+.animal-card {
+    width: 350px;
+    /*height: 682px;*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -400px 0 0 -175px;
+    overflow: hidden;
+    border: #808080 solid;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px rgba(0, 0, 0, .5);
+    text-align: center;
+}
+
+.animal-header {
+    border: 1px solid #808080;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+.animal-header h3{
+   
+    text-align: left;
+    padding: 10px;
+    margin-left: 5px;
+
+}
+
+.animal-section{
+    border: 1px solid #808080;
+    margin: 10px;
+    padding: 0;
+    
+}
+
+.facts {
+    font-style: italic;
+     color:  #696969;
+     text-align: left;
+}
+
+.labels {
+    text-align: left;
+     list-style: none;
+}
+
+.labels li span {
+    font-weight: 700;
+}
+
+.animal-description {
+    text-align: left;
+    padding: 10px; 
+    margin: 5px 5px 0 5px;
+}
+
+.element-spacing {
+    padding: 10px 10px 0 10px;
+    margin: 5px 5px 0 5px;
+}
